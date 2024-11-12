@@ -25,8 +25,4 @@ Welcome to my GitHub profile! I’m passionate about coding, finance, and web de
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ritirai07/)
 - Twitter: [@ritirai07](https://twitter.com/ritirai07)
 
- 📈 GitHub Stats
-
-![@ritikrai07](https://github-readme-stats.vercel.app/api?username=ritirai07&show_icons=true&theme=radical)
-
 Thanks for visiting! Have a great day!
