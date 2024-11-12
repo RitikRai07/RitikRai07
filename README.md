@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I’m passionate about coding, finance, and web de
 📌 About Me
 
 - 🌱 I’m currently learning advanced C++ and data structures.
-- 📊 I run a YouTube channel named [FitFinance](https://www.youtube.com/channel/your-channel) focused on trading and finance insights.
 - 💻 I have experience with various coding projects, including data structures, algorithms, and web development.
 
  🔭 What I’m working on
