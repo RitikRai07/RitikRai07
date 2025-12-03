@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m passionate about coding, finance, and web de
 
  📫 How to reach me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ritirai07/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ritirailpu/)
 - Twitter: [@ritirai07](https://twitter.com/ritirai07)
 
 Thanks for visiting! Have a great day!
