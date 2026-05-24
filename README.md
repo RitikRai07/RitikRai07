@@ -20,7 +20,7 @@
 
 # 🌌 About Me
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212257464-4bdbb5c9-6f14-4b4e-9d6e-7c1d66f7cb0f.gif"/>
 
 ```yaml
 Name: Ritik Rai
