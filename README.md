@@ -20,12 +20,13 @@
 
 # 🌌 About Me
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png"/>
 
 ```yaml
 Name: Ritik Rai
 Role: Full Stack Developer
 Education: BTech CSE
+
 Specialization:
   - AWS Cloud
   - DevOps
@@ -57,6 +58,7 @@ Currently Learning:
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,aws,docker,kubernetes,jenkins,terraform,linux,git,github,vscode,postman,firebase&theme=dark"/>
 
 </div>
+
 
 ---
 
