@@ -200,16 +200,6 @@ Currently Learning:
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 🌐 Portfolio
 
 <p align="center">
@@ -237,16 +227,6 @@ const RitikRai = {
     currentFocus: "Building scalable cloud systems 🚀"
 };
 ```
-
----
-
-# 🛸 Fun Animation
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
 
 ---
 
