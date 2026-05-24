@@ -1,10 +1,11 @@
-<!-- ========================= -->
-<!--      FUTURE HEADER       -->
-<!-- ========================= -->
+
+<!-- ========================================= -->
+<!--              CYBERPUNK HEADER            -->
+<!-- ========================================= -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1200&height=120&lines=RITIK+RAI;AWS+CLOUD+%7C+DEVOPS+%7C+FULL+STACK;BUILDING+THE+FUTURE+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1200&height=120&lines=RITIK+RAI;AWS+CLOUD+ENGINEER;DEVOPS+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE+🚀"/>
 
 </p>
 
@@ -18,50 +19,55 @@
 
 ---
 
-<!-- ========================= -->
-<!--      MATRIX EFFECT       -->
-<!-- ========================= -->
+<!-- ========================================= -->
+<!--             FUTURISTIC BANNER            -->
+<!-- ========================================= -->
 
 <p align="center">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-6d6d7d7d-1c1f-4e53-8df3-1cc6e3d1a3d3.gif" width="100%"/>
 
 </p>
 
 ---
 
-# 🌌 WHO AM I ?
+# 🌌 ABOUT ME
 
-<img align="right" alt="coding" width="420" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N0c2M0N2ZwdjF5YmN6bDg1dGFqYXBqNjM2YTRvNXp0cTZjYW53dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ```yaml
 Name: Ritik Rai
 Role: AWS & DevOps Engineer
-Focus:
-  - Full Stack Development
-  - Cloud Architecture
+Passion:
+  - Cloud Computing
   - DevOps Automation
-  - CI/CD Pipelines
-  - Kubernetes
+  - Full Stack Development
   - System Design
+  - Open Source
 
-Currently Building:
-  - AWS Projects
-  - Real-Time Dashboards
-  - DevOps Pipelines
-  - Scalable Applications
+Currently Learning:
+  - Kubernetes
+  - Terraform
+  - CI/CD
+  - Advanced AWS
 
 Dream:
   - Become Cloud Architect 🚀
 ```
 
+- 🚀 Building scalable cloud applications
+- ☁️ AWS & DevOps Enthusiast
+- 💻 Creating modern full stack projects
+- 📈 Interested in AI & automation
+- 🔥 Open source contributor
+
 ---
 
-# ⚡ TECH UNIVERSE
+# ⚡ TECH STACK
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,aws,docker,kubernetes,jenkins,terraform,linux,git,github,redux,firebase,vscode,postman,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,aws,docker,kubernetes,jenkins,terraform,linux,git,github,redux,vscode,postman,bash&theme=dark"/>
 
 </p>
 
@@ -85,22 +91,12 @@ Dream:
 |------------|-----------|----------------|
 | EduTrack LMS | AWS + Lambda + S3 | Cloud Learning Platform |
 | DevOps CI/CD | Jenkins + Docker | Automated Deployments |
-| Stock Analyzer AI | React + API | Real-Time Trading Dashboard |
+| Stock Analyzer | React + API | Real-Time Trading Dashboard |
 | E-Commerce App | MERN Stack | Modern Shopping Platform |
-| Cloud Monitoring | AWS + Grafana | Monitoring Dashboard |
-| Photo Sharing App | AWS CloudFront | Image Sharing Platform |
+| AWS Monitoring | Grafana + CloudWatch | Monitoring Dashboard |
+| AI Assistant | Python + API | AI Based Assistant |
 
 </div>
-
----
-
-# 🧠 AI POWERED DEV PROFILE
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RitikRai07&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
@@ -126,21 +122,11 @@ Dream:
 
 ---
 
-# ⚡ GITHUB METRICS
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 
-<img src="https://metrics.lecoq.io/RitikRai07?template=classic&config.timezone=Asia%2FKolkata"/>
-
-</p>
-
----
-
-# 🔥 PROFILE SUMMARY
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitikRai07&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RitikRai07&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -151,6 +137,16 @@ Dream:
 <p align="center">
 
 <img src="https://leetcard.jacoblin.cool/RitikRai07?theme=dark&font=Nunito&ext=heatmap"/>
+
+</p>
+
+---
+
+# ⚡ PROFILE SUMMARY
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitikRai07&theme=tokyonight"/>
 
 </p>
 
@@ -194,32 +190,6 @@ Dream:
 
 ---
 
-# 🎧 SPOTIFY STATUS
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w5l4jkg4m3s4f5g5j6g7h8i9j0&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true"/>
-
-</p>
-
----
-
-# 💻 TERMINAL MODE
-
-```bash
-> initializing Ritik_Rai.exe
-
-✔ AWS Cloud Loaded
-✔ Kubernetes Loaded
-✔ DevOps Pipeline Active
-✔ Full Stack Engine Ready
-✔ Real-Time Projects Running
-
-STATUS : ONLINE 🚀
-```
-
----
-
 # 🔥 CURRENT MISSION
 
 ```diff
@@ -232,31 +202,37 @@ STATUS : ONLINE 🚀
 
 ---
 
-# 🧠 DEV QUOTE
+# 💻 TERMINAL MODE
 
-<p align="center">
+```bash
+> booting ritik_rai.exe
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+✔ AWS CLOUD INITIALIZED
+✔ DEVOPS PIPELINE ACTIVE
+✔ FULL STACK MODE ENABLED
+✔ REAL TIME PROJECTS RUNNING
+✔ CLOUD MONITORING ENABLED
 
-</p>
-
----
-
-# 😂 RANDOM DEV MEME
-
-<p align="center">
-
-<img src="https://random-memer.herokuapp.com/" width="500px"/>
-
-</p>
+STATUS : ONLINE 🚀
+```
 
 ---
 
-# ⚡ LIVE CODING
+# ⚡ LIVE CODING STATS
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RitikRai07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎧 SPOTIFY STATUS
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w5l4jkg4m3s4f5g5j6g7h8i9j0&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117"/>
 
 </p>
 
@@ -272,6 +248,19 @@ STATUS : ONLINE 🚀
 
 ---
 
+# 🛸 FUTURE GOALS
+
+```javascript
+const future = {
+  role: "Cloud Architect",
+  learning: ["Kubernetes", "Terraform", "Advanced AWS"],
+  building: ["Scalable Cloud Systems", "DevOps Pipelines"],
+  mission: "Building future-ready cloud applications 🚀"
+};
+```
+
+---
+
 # 🚀 VISITOR COUNT
 
 <p align="center">
@@ -282,20 +271,7 @@ STATUS : ONLINE 🚀
 
 ---
 
-# 🛸 FUTURE GOALS
-
-```javascript
-const future = {
-    role: "Cloud Architect",
-    learning: ["Kubernetes", "Terraform", "System Design"],
-    building: ["Scalable Systems", "DevOps Pipelines"],
-    mission: "Building future-ready cloud applications 🚀"
-};
-```
-
----
-
-# 🌌 FINAL CYBERPUNK FOOTER
+# 🌌 CYBER FOOTER
 
 <p align="center">
 
