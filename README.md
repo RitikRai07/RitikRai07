@@ -1,76 +1,299 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Ritik Rai</h1>
-<h3 align="center">Full Stack Developer | Cloud Enthusiast | C++ & Java Programmer | AWS Learner</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+👋+I'm+Ritik+Rai;AWS+Cloud+Engineer;DevOps+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Applications" />
+</h1>
+
+<h3 align="center">
+🚀 AWS & DevOps Engineer | 💻 Full Stack Developer | ☁️ Cloud Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=RitikRai07">
-    <img src="https://komarev.com/ghpvc/?username=RitikRai07&label=Profile%20views&color=00FFFF&style=flat-square" alt="RitikRai07's profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=RitikRai07&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/RitikRai07?style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/github/stars/RitikRai07?style=for-the-badge&color=00F7FF"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
+---
 
-## 📌 About Me
-- 💻 BTech CSE Student passionate about Software Development
-- 🌱 Currently learning Cloud Computing, AWS and System Design
-- 🚀 Building Real World Projects using AWS, JavaScript and C++
-- 📊 Interested in Stock Market Analytics and Algorithmic Trading
-- 🤝 Open to collaborating on Open Source and Cloud Projects
-- ⚡ Love solving DSA problems and competitive programming
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=280&section=header&text=RITIK%20RAI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
+---
 
-## 🧠 My Focus Areas
-- Cloud Computing
-- Full Stack Web Development
-- Data Structures & Algorithms
-- Open Source Contribution
-- AI & Data Analysis
+# 🌌 About Me
 
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-## 📊 GitHub Stats & Trophies
+```yaml
+Name: Ritik Rai
+Role: Full Stack Developer
+Education: BTech CSE
+Specialization:
+  - AWS Cloud
+  - DevOps
+  - Full Stack Development
+  - System Design
+  - CI/CD Pipelines
+
+Currently Learning:
+  - Kubernetes
+  - Terraform
+  - Docker
+  - Jenkins
+  - Advanced AWS
+```
+
+- 🚀 Building scalable cloud applications
+- ☁️ Passionate about AWS & DevOps
+- 💻 Creating modern full stack projects
+- 📊 Interested in AI & Stock Market Analytics
+- 🔥 Open Source Contributor
+- ⚡ Always learning new technologies
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,aws,docker,kubernetes,jenkins,terraform,linux,git,github,vscode,postman,firebase&theme=dark"/>
+
+</div>
+
+---
+
+# ☁️ DevOps & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,githubactions,linux,bash,prometheus,grafana&theme=dark"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | ⚙️ Tech Stack | 🔥 Description |
+|------------|---------------|----------------|
+| EduTrack LMS | AWS, Lambda, S3 | Cloud Based LMS Platform |
+| Stock Market Analyzer | React, API, Charts | AI Trading Dashboard |
+| DevOps CI/CD Pipeline | Jenkins, Docker | Automated Deployment |
+| Photo Sharing App | AWS CloudFront | Modern Image Sharing App |
+| E-Commerce Platform | MERN Stack | Full Shopping Platform |
+| AWS Monitoring System | CloudWatch | Server Monitoring Dashboard |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/RitikRai07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RitikRai07&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="RitikRai07's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=RitikRai07&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="RitikRai07's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=RitikRai07&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ritik Rai's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=RitikRai07&theme=highcontrast&radius=10" alt="RitikRai07's Activity Graph" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RitikRai07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RitikRai07&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 </p>
 
+---
 
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+# 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/RitikRai07">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RitikRai07&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikRai07&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
+
 </p>
 
-## 🔗 Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/ritikrailpu" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ritik Rai's LinkedIn"/></a> <a href="mailto:rrai23042"gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Ritik Rai's Email"/></a> <a href="https://v0-ritik07portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a> <a href="https://wa.me/918738976755" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
+---
 
-## 💬 Quote
-> "Consistency beats talent."
+# 🏆 GitHub Trophies
 
+<p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=RitikRai07&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/RitikRai07?theme=dark&font=Nunito&ext=heatmap"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://metrics.lecoq.io/RitikRai07?template=classic&config.timezone=Asia%2FKolkata"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/RitikRai07">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ritikrailpu">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rrai23042@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://v0-ritik07portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="https://wa.me/918738976755">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🔥 Current Focus
+
+```diff
++ Building Scalable AWS Projects
++ Learning Kubernetes & Terraform
++ Creating CI/CD Pipelines
++ Improving Full Stack Skills
++ Open Source Contribution
++ DevOps Automation
+```
+
+---
+
+# 💡 Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎵 Spotify Playing
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w5l4jkg4m3s4f5g5j6g7h8i9j0&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://v0-ritik07portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌍_VISIT_PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# ⚙️ Dev Environment
+
+```javascript
+const RitikRai = {
+    operatingSystem: "Windows & Linux",
+    editor: "VS Code",
+    cloud: ["AWS"],
+    devOps: ["Docker", "Kubernetes", "Terraform", "Jenkins"],
+    backend: ["Node.js", "Express"],
+    frontend: ["React", "Next.js"],
+    databases: ["MongoDB", "MySQL"],
+    languages: ["JavaScript", "Java", "Python", "C++"],
+    currentFocus: "Building scalable cloud systems 🚀"
+};
+```
+
+---
+
+# 🛸 Fun Animation
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧠 Random Dev Meme
+
+<p align="center">
+
+<img src="https://random-memer.herokuapp.com/" width="500px"/>
+
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/00F7FF/RitikRai07" alt="Github chart"/>
+
+</p>
+
+---
+
+# 🔥 Profile Summary Cards
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitikRai07&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RitikRai07&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RitikRai07&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Support
+
+<p align="center">
+
+<a href="https://github.com/RitikRai07">
+<img src="https://img.shields.io/badge/Follow%20Me-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=180&section=footer"/>
