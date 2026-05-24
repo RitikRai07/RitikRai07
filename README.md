@@ -20,7 +20,7 @@
 
 # 🌌 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212257464-4bdbb5c9-6f14-4b4e-9d6e-7c1d66f7cb0f.gif"/>
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```yaml
 Name: Ritik Rai
@@ -56,7 +56,6 @@ Currently Learning:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,aws,docker,kubernetes,jenkins,terraform,linux,git,github,vscode,postman,firebase&theme=dark"/>
 
-
 ---
 
 # ☁️ DevOps & Cloud
@@ -85,19 +84,6 @@ Currently Learning:
 </div>
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RitikRai07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RitikRai07&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -186,29 +172,6 @@ Currently Learning:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
-
----
-
-# 🎵 Spotify Playing
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w5l4jkg4m3s4f5g5j6g7h8i9j0&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true"/>
-
-</p>
-
----
-
-# 🌐 Portfolio
-
-<p align="center">
-
-<a href="https://v0-ritik07portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌍_VISIT_PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-</p>
-
 ---
 
 # ⚙️ Dev Environment
@@ -226,19 +189,6 @@ const RitikRai = {
     currentFocus: "Building scalable cloud systems 🚀"
 };
 ```
-
----
-
-# 🧠 Random Dev Meme
-
-<p align="center">
-
-<img src="https://random-memer.herokuapp.com/" width="500px"/>
-
-</p>
-
----
-
 # 📅 Contribution Calendar
 
 <p align="center">
