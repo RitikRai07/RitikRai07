@@ -19,41 +19,42 @@
 ---
 
 # 🌌 About Me
-# 🌌 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749695-695f2f89-5e63-4c65-b1c5-0c4a4b7c1c5f.gif"/>
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```yaml
 Name: Ritik Rai
-Role: AWS & DevOps Engineer
-
+Role: Full Stack Developer
+Education: BTech CSE
 Specialization:
   - AWS Cloud
   - DevOps
   - Full Stack Development
-  - CI/CD Pipelines
   - System Design
+  - CI/CD Pipelines
 
 Currently Learning:
   - Kubernetes
   - Terraform
   - Docker
   - Jenkins
+  - Advanced AWS
 ```
 
 - 🚀 Building scalable cloud applications
 - ☁️ Passionate about AWS & DevOps
 - 💻 Creating modern full stack projects
+- 📊 Interested in AI & Stock Market Analytics
 - 🔥 Open Source Contributor
 - ⚡ Always learning new technologies
+
+---
 
 # ⚡ Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,aws,docker,kubernetes,jenkins,terraform,linux,git,github,vscode,postman,firebase&theme=dark"/>
-
-</div>
 
 
 ---
