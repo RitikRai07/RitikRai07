@@ -24,7 +24,7 @@
 
 ```yaml
 Name: Ritik Rai
-Role: Full Stack Developer
+Role: DevOps Engineer
 Education: BTech CSE
 Specialization:
   - AWS Cloud
@@ -172,6 +172,8 @@ Currently Learning:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
+---
+
 ---
 
 # ⚙️ Dev Environment
