@@ -1,11 +1,10 @@
-
-<!-- ========================================= -->
-<!--              CYBERPUNK HEADER            -->
-<!-- ========================================= -->
+<!-- ===================================================== -->
+<!--                 ULTRA PRO MAX README                  -->
+<!-- ===================================================== -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1200&height=120&lines=RITIK+RAI;AWS+CLOUD+ENGINEER;DEVOPS+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=48&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1200&height=140&lines=RITIK+RAI;AWS+CLOUD+ENGINEER;DEVOPS+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE+🚀"/>
 
 </p>
 
@@ -13,19 +12,19 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D1117,50:00F7FF,100:8A2BE2&text=RITIK%20RAI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:0D1117,50:00F7FF,100:8A2BE2&text=RITIK%20RAI&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 </p>
 
 ---
 
-<!-- ========================================= -->
-<!--             FUTURISTIC BANNER            -->
-<!-- ========================================= -->
+<!-- ===================================================== -->
+<!--                  CYBER ANIMATION                      -->
+<!-- ===================================================== -->
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-6d6d7d7d-1c1f-4e53-8df3-1cc6e3d1a3d3.gif" width="100%"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="95"/>
 
 </p>
 
@@ -33,33 +32,30 @@
 
 # 🌌 ABOUT ME
 
-<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" width="420" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 ```yaml
 Name: Ritik Rai
-Role: AWS & DevOps Engineer
-Passion:
-  - Cloud Computing
-  - DevOps Automation
+Role: AWS Cloud & DevOps Engineer
+
+Skills:
   - Full Stack Development
-  - System Design
-  - Open Source
-
-Currently Learning:
+  - AWS Cloud
+  - DevOps Automation
+  - CI/CD Pipelines
   - Kubernetes
+  - Docker
   - Terraform
-  - CI/CD
-  - Advanced AWS
 
-Dream:
-  - Become Cloud Architect 🚀
+Currently Building:
+  - Scalable Cloud Infrastructure
+  - Real-Time Applications
+  - AWS Monitoring Systems
+  - AI Integrated Platforms
+
+Mission:
+  - Becoming Cloud Architect 🚀
 ```
-
-- 🚀 Building scalable cloud applications
-- ☁️ AWS & DevOps Enthusiast
-- 💻 Creating modern full stack projects
-- 📈 Interested in AI & automation
-- 🔥 Open source contributor
 
 ---
 
@@ -67,17 +63,17 @@ Dream:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,aws,docker,kubernetes,jenkins,terraform,linux,git,github,redux,vscode,postman,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,aws,docker,kubernetes,terraform,jenkins,linux,bash,github,git,redux,firebase,vscode,postman&theme=dark"/>
 
 </p>
 
 ---
 
-# ☁️ DEVOPS & CLOUD
+# ☁️ CLOUD & DEVOPS
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,grafana,prometheus,linux,bash,githubactions&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,grafana,prometheus,githubactions,bash,linux&theme=dark"/>
 
 </p>
 
@@ -87,14 +83,14 @@ Dream:
 
 <div align="center">
 
-| 🚀 Project | ⚙️ Stack | 🔥 Description |
-|------------|-----------|----------------|
+| 🚀 Project | ⚙️ Tech Stack | 🔥 Description |
+|------------|---------------|----------------|
 | EduTrack LMS | AWS + Lambda + S3 | Cloud Learning Platform |
-| DevOps CI/CD | Jenkins + Docker | Automated Deployments |
-| Stock Analyzer | React + API | Real-Time Trading Dashboard |
-| E-Commerce App | MERN Stack | Modern Shopping Platform |
-| AWS Monitoring | Grafana + CloudWatch | Monitoring Dashboard |
-| AI Assistant | Python + API | AI Based Assistant |
+| DevOps Pipeline | Jenkins + Docker | Automated CI/CD |
+| Stock Analyzer | React + APIs | AI Trading Dashboard |
+| E-Commerce App | MERN Stack | Full Shopping Platform |
+| AWS Monitor | Grafana + CloudWatch | Real-Time Monitoring |
+| AI Assistant | Python + APIs | AI Powered Assistant |
 
 </div>
 
@@ -132,21 +128,29 @@ Dream:
 
 ---
 
-# 🧠 LEETCODE HEATMAP
+# 🔥 ADVANCED CONTRIBUTION SECTION
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/RitikRai07?theme=dark&font=Nunito&ext=heatmap"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitikRai07&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RitikRai07&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RitikRai07&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# ⚡ PROFILE SUMMARY
+# 🧠 LEETCODE HEATMAP
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitikRai07&theme=tokyonight"/>
+<img src="https://leetcard.jacoblin.cool/RitikRai07?theme=dark&font=Nunito&ext=heatmap"/>
 
 </p>
 
@@ -159,6 +163,35 @@ Dream:
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+
+---
+
+# 💻 TERMINAL STATUS
+
+```bash
+> booting ritik_rai.exe
+
+✔ AWS CLOUD INITIALIZED
+✔ DEVOPS PIPELINES ACTIVE
+✔ FULL STACK MODE ENABLED
+✔ DATABASE CONNECTED
+✔ REAL-TIME MONITORING ACTIVE
+✔ CLOUD SECURITY ENABLED
+
+STATUS : ONLINE 🚀
+```
+
+---
+
+# ⚡ CURRENT MISSION
+
+```diff
++ Building Advanced AWS Infrastructure
++ Mastering Kubernetes & Terraform
++ Creating Automated CI/CD Pipelines
++ Scaling Full Stack Applications
++ Building AI Cloud Platforms
+```
 
 ---
 
@@ -190,31 +223,13 @@ Dream:
 
 ---
 
-# 🔥 CURRENT MISSION
+# 🎧 SPOTIFY STATUS
 
-```diff
-+ Building Real AWS Infrastructure
-+ Mastering Kubernetes & Terraform
-+ Creating Automated CI/CD Pipelines
-+ Building AI Integrated Platforms
-+ Scaling Full Stack Applications
-```
+<p align="center">
 
----
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w5l4jkg4m3s4f5g5j6g7h8i9j0&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117"/>
 
-# 💻 TERMINAL MODE
-
-```bash
-> booting ritik_rai.exe
-
-✔ AWS CLOUD INITIALIZED
-✔ DEVOPS PIPELINE ACTIVE
-✔ FULL STACK MODE ENABLED
-✔ REAL TIME PROJECTS RUNNING
-✔ CLOUD MONITORING ENABLED
-
-STATUS : ONLINE 🚀
-```
+</p>
 
 ---
 
@@ -223,16 +238,6 @@ STATUS : ONLINE 🚀
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RitikRai07&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎧 SPOTIFY STATUS
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w5l4jkg4m3s4f5g5j6g7h8i9j0&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117"/>
 
 </p>
 
@@ -248,20 +253,41 @@ STATUS : ONLINE 🚀
 
 ---
 
-# 🛸 FUTURE GOALS
+# 💡 DEV QUOTE
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 FUTURE GOALS
 
 ```javascript
-const future = {
+const RitikRai = {
   role: "Cloud Architect",
-  learning: ["Kubernetes", "Terraform", "Advanced AWS"],
-  building: ["Scalable Cloud Systems", "DevOps Pipelines"],
+  learning: [
+    "Advanced AWS",
+    "Kubernetes",
+    "Terraform",
+    "System Design"
+  ],
+
+  building: [
+    "Scalable Cloud Systems",
+    "DevOps Automation",
+    "AI Platforms"
+  ],
+
   mission: "Building future-ready cloud applications 🚀"
 };
 ```
 
 ---
 
-# 🚀 VISITOR COUNT
+# 🚀 VISITOR COUNTER
 
 <p align="center">
 
@@ -275,6 +301,6 @@ const future = {
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2BE2,50:00F7FF,100:0D1117&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,50:00F7FF,100:0D1117&section=footer"/>
 
 </p>
