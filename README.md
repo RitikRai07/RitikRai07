@@ -1,102 +1,93 @@
-<!-- ===================================================== -->
-<!--                 ULTRA PRO MAX README                  -->
-<!-- ===================================================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+👋+I'm+Ritik+Rai;AWS+Cloud+Engineer;DevOps+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Applications" />
+</h1>
+
+<h3 align="center">
+🚀 AWS & DevOps Engineer | 💻 Full Stack Developer | ☁️ Cloud Enthusiast
+</h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=48&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1200&height=140&lines=RITIK+RAI;AWS+CLOUD+ENGINEER;DEVOPS+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE+🚀"/>
-
+  <img src="https://komarev.com/ghpvc/?username=RitikRai07&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/RitikRai07?style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/github/stars/RitikRai07?style=for-the-badge&color=00F7FF"/>
 </p>
 
 ---
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:0D1117,50:00F7FF,100:8A2BE2&text=RITIK%20RAI&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=280&section=header&text=RITIK%20RAI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 ---
 
-<!-- ===================================================== -->
-<!--                  CYBER ANIMATION                      -->
-<!-- ===================================================== -->
+# 🌌 About Me
 
-<p align="center">
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="95"/>
-
-</p>
-
----
-
-# 🌌 ABOUT ME
-
-<img align="right" width="420" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```yaml
 Name: Ritik Rai
-Role: AWS Cloud & DevOps Engineer
-
-Skills:
-  - Full Stack Development
+Role: Full Stack Developer
+Education: BTech CSE
+Specialization:
   - AWS Cloud
-  - DevOps Automation
+  - DevOps
+  - Full Stack Development
+  - System Design
   - CI/CD Pipelines
+
+Currently Learning:
   - Kubernetes
-  - Docker
   - Terraform
-
-Currently Building:
-  - Scalable Cloud Infrastructure
-  - Real-Time Applications
-  - AWS Monitoring Systems
-  - AI Integrated Platforms
-
-Mission:
-  - Becoming Cloud Architect 🚀
+  - Docker
+  - Jenkins
+  - Advanced AWS
 ```
 
----
-
-# ⚡ TECH STACK
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,aws,docker,kubernetes,terraform,jenkins,linux,bash,github,git,redux,firebase,vscode,postman&theme=dark"/>
-
-</p>
+- 🚀 Building scalable cloud applications
+- ☁️ Passionate about AWS & DevOps
+- 💻 Creating modern full stack projects
+- 📊 Interested in AI & Stock Market Analytics
+- 🔥 Open Source Contributor
+- ⚡ Always learning new technologies
 
 ---
 
-# ☁️ CLOUD & DEVOPS
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,grafana,prometheus,githubactions,bash,linux&theme=dark"/>
-
-</p>
-
----
-
-# 🚀 FEATURED PROJECTS
+# ⚡ Tech Stack
 
 <div align="center">
 
-| 🚀 Project | ⚙️ Tech Stack | 🔥 Description |
-|------------|---------------|----------------|
-| EduTrack LMS | AWS + Lambda + S3 | Cloud Learning Platform |
-| DevOps Pipeline | Jenkins + Docker | Automated CI/CD |
-| Stock Analyzer | React + APIs | AI Trading Dashboard |
-| E-Commerce App | MERN Stack | Full Shopping Platform |
-| AWS Monitor | Grafana + CloudWatch | Real-Time Monitoring |
-| AI Assistant | Python + APIs | AI Powered Assistant |
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,aws,docker,kubernetes,jenkins,terraform,linux,git,github,vscode,postman,firebase&theme=dark"/>
 
 </div>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# ☁️ DevOps & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,githubactions,linux,bash,prometheus,grafana&theme=dark"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | ⚙️ Tech Stack | 🔥 Description |
+|------------|---------------|----------------|
+| EduTrack LMS | AWS, Lambda, S3 | Cloud Based LMS Platform |
+| Stock Market Analyzer | React, API, Charts | AI Trading Dashboard |
+| DevOps CI/CD Pipeline | Jenkins, Docker | Automated Deployment |
+| Photo Sharing App | AWS CloudFront | Modern Image Sharing App |
+| E-Commerce Platform | MERN Stack | Full Shopping Platform |
+| AWS Monitoring System | CloudWatch | Server Monitoring Dashboard |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -108,17 +99,17 @@ Mission:
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikRai07&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikRai07&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -128,25 +119,7 @@ Mission:
 
 ---
 
-# 🔥 ADVANCED CONTRIBUTION SECTION
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitikRai07&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RitikRai07&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RitikRai07&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🧠 LEETCODE HEATMAP
+# 🧠 LeetCode Stats
 
 <p align="center">
 
@@ -156,46 +129,17 @@ Mission:
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# ⚡ GitHub Metrics
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://metrics.lecoq.io/RitikRai07?template=classic&config.timezone=Asia%2FKolkata"/>
 
 </p>
 
 ---
 
-# 💻 TERMINAL STATUS
-
-```bash
-> booting ritik_rai.exe
-
-✔ AWS CLOUD INITIALIZED
-✔ DEVOPS PIPELINES ACTIVE
-✔ FULL STACK MODE ENABLED
-✔ DATABASE CONNECTED
-✔ REAL-TIME MONITORING ACTIVE
-✔ CLOUD SECURITY ENABLED
-
-STATUS : ONLINE 🚀
-```
-
----
-
-# ⚡ CURRENT MISSION
-
-```diff
-+ Building Advanced AWS Infrastructure
-+ Mastering Kubernetes & Terraform
-+ Creating Automated CI/CD Pipelines
-+ Scaling Full Stack Applications
-+ Building AI Cloud Platforms
-```
-
----
-
-# 🌍 CONNECT WITH ME
+# 💻 Coding Profiles
 
 <p align="center">
 
@@ -223,37 +167,20 @@ STATUS : ONLINE 🚀
 
 ---
 
-# 🎧 SPOTIFY STATUS
+# 🔥 Current Focus
 
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w5l4jkg4m3s4f5g5j6g7h8i9j0&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117"/>
-
-</p>
-
----
-
-# ⚡ LIVE CODING STATS
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RitikRai07&theme=tokyonight&hide_border=true"/>
-
-</p>
+```diff
++ Building Scalable AWS Projects
++ Learning Kubernetes & Terraform
++ Creating CI/CD Pipelines
++ Improving Full Stack Skills
++ Open Source Contribution
++ DevOps Automation
+```
 
 ---
 
-# 📅 CONTRIBUTION CALENDAR
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/00F7FF/RitikRai07"/>
-
-</p>
-
----
-
-# 💡 DEV QUOTE
+# 💡 Dev Quote
 
 <p align="center">
 
@@ -263,44 +190,110 @@ STATUS : ONLINE 🚀
 
 ---
 
-# 🚀 FUTURE GOALS
+# 🎵 Spotify Playing
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w5l4jkg4m3s4f5g5j6g7h8i9j0&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://v0-ritik07portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌍_VISIT_PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# ⚙️ Dev Environment
 
 ```javascript
 const RitikRai = {
-  role: "Cloud Architect",
-  learning: [
-    "Advanced AWS",
-    "Kubernetes",
-    "Terraform",
-    "System Design"
-  ],
-
-  building: [
-    "Scalable Cloud Systems",
-    "DevOps Automation",
-    "AI Platforms"
-  ],
-
-  mission: "Building future-ready cloud applications 🚀"
+    operatingSystem: "Windows & Linux",
+    editor: "VS Code",
+    cloud: ["AWS"],
+    devOps: ["Docker", "Kubernetes", "Terraform", "Jenkins"],
+    backend: ["Node.js", "Express"],
+    frontend: ["React", "Next.js"],
+    databases: ["MongoDB", "MySQL"],
+    languages: ["JavaScript", "Java", "Python", "C++"],
+    currentFocus: "Building scalable cloud systems 🚀"
 };
 ```
 
 ---
 
-# 🚀 VISITOR COUNTER
+# 🛸 Fun Animation
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RitikRai07&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌌 CYBER FOOTER
+# 🧠 Random Dev Meme
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,50:00F7FF,100:0D1117&section=footer"/>
+<img src="https://random-memer.herokuapp.com/" width="500px"/>
 
 </p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/00F7FF/RitikRai07" alt="Github chart"/>
+
+</p>
+
+---
+
+# 🔥 Profile Summary Cards
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitikRai07&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RitikRai07&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RitikRai07&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Support
+
+<p align="center">
+
+<a href="https://github.com/RitikRai07">
+<img src="https://img.shields.io/badge/Follow%20Me-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=180&section=footer"/>
